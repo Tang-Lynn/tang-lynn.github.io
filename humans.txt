@@ -4,12 +4,12 @@
   Project: Academic Website Template
   Web Design and Development
 
-  Re-release / update: Fall, 2019
+  Re-release / update: Spring, 2020
 
-  Randal Sean Harrison, Ph.D.
+  Randal Ph.D.
   Website Developer
-  Employed: Hesburgh Libraries, University of Notre Dame
-  Contact: rharriso@nd.edu
+  Employed: Department of methodology and statistics, Utrecht University
+  Contact: d.tang@uu.nl
 
 
 /* Technologies, Credits  */
