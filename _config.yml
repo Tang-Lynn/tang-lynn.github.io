@@ -1,11 +1,11 @@
 # Site settings
-title: Jiale Blog
+title: Dandan Blog
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
-email: shijiale1995@gmail.com
+email: d.tang@uu.nl
 description: ""
 keyword: ""
-url: "https://shijiale0609.github.io"              # your host, for absolute URL
+url: "https://tang-lynn.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: jialeshi
+duoshuo_username: Dandan Tang
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -68,7 +68,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "拿得起，放得下。不忘初心，不将就。喜欢篮球、网球。化工量化方向。"
+sidebar-about-description: "不忘初心，砥砺前行"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
