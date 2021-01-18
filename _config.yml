@@ -86,24 +86,20 @@ friends: [
         href: "https://github.com/Tang-Lynn"
     },
     {
-        title: "GoogleScholar",
-        href: "https://scholar.google.com/citations?user=l6Q2OzkAAAAJ&hl=en"
+        title: "HerbertGroup",
+        href: "https://informative-hypotheses.sites.uu.nl/research-group/"
     },
     {
-        title: "WhitmerGroup",
-        href: "https://www3.nd.edu/~jwhitme1/"
+        title: "Dandan",
+        href: "https://www.uu.nl/staff/DTang"
     },
     {
-        title: "NDCBE",
-        href: "https://engineering.nd.edu/profiles/jshi"
+        title: "Department of Methodlogy & Statistics",
+        href: "https://www.uu.nl/en/organisation/faculty-of-social-and-behavioural-sciences/about-the-faculty/departments/methodology-statistics"
     },
     {
-        title: "PKU_CCME",
-        href: "http://www.chem.pku.edu.cn"
-    },
-    {
-        title: "Jiang Hong",
-        href: "http://www.chem.pku.edu.cn/jianghgroup/index.htm"
+        title: "Herbert Hoijtink",
+        href: "https://www.uu.nl/staff/hhoijtink"
     }
 ]
 
